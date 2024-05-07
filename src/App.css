@@ -1,0 +1,18 @@
+.interestForm {
+  margin: auto;
+  width: 30%;
+  padding: 10px;
+  margin-top: 100px;
+  background-color: rgb(146 250 84);
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.Total {
+  background-color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.buttons {
+  padding-left: "100px";
+}
